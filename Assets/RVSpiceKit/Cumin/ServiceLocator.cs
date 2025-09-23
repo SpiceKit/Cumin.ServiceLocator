@@ -1,4 +1,4 @@
-// zlib/libpng License
+﻿// zlib/libpng License
 //
 // Copyright (c) 2025 RabitBox
 //
@@ -15,7 +15,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Cumin
+namespace RVSpiceKit.Cumin
 {
     /// <summary>
     /// Service Locator
