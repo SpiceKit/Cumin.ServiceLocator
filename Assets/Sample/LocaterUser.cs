@@ -1,5 +1,5 @@
 ﻿using UnityEngine;
-using RVSpiceKit.Cumin;
+using RV.SpiceKit.Cumin;
 
 public class LocaterUser : MonoBehaviour
 {

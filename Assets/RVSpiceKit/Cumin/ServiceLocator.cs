@@ -15,7 +15,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace RVSpiceKit.Cumin
+namespace RV.SpiceKit.Cumin
 {
     /// <summary>
     /// Service Locator
