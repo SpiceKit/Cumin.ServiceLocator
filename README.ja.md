@@ -1,6 +1,6 @@
-# Cumin
+# Cumin Service Locator
 
-軽量な Service Locator 実装です。
+C#およびUnity向けの軽量な Service Locator 実装です。
 
 `Cumin` は、依存オブジェクトの登録と取得をシンプルに行うためのライブラリです。複雑な DI コンテナを導入せずに、アプリケーション全体で共有するサービスやマネージャーを管理できます。
 
